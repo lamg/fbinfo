@@ -110,6 +110,7 @@ func getUsrInf(s string, i int) (ui map[string]string, n int, e error) {
 		"uri:",
 		"gender:",
 		"i18nGender:",
+		"additionalName:",
 		"type:",
 		"is_friend:",
 		"is_birthday:",
